@@ -14,3 +14,5 @@ Cal command options added (all for Gregorian Calendar) :-
             yyyy = year in 4 digit (ex- 2003)
             -3 = This will give 3 month calendar (previious, current, ahead)
             
+ => CHECK calendar.pdf for the OUTPUT
+            
